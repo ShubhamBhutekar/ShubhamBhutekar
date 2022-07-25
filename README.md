@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Web developer.
 - 
-- 👀 I’m interested in the web development and app development.
+- 👀 I’m interested in the Web development and App development.
 - 🌱 I’m currently learning new technology trends like Git and Github.
 - 
 - 💞️ I’m looking to collaborate on the new ideas which turns into reality.
